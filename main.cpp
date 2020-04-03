@@ -1,5 +1,5 @@
 #include <iostream>
-#include <string>
+#include <string.h>
 using namespace std;
 
 void interleaveString(char *str1, char *str2, char *interleave, int index, int str1len, int str2len)
